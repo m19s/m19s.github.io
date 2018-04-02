@@ -19,6 +19,10 @@ body {
   text-align: center;
   color: red;
 }
+#logo {
+  text-align: center;
+  color: aqua;
+}
 
 #first-view-ad-box {
   background-color: black;
